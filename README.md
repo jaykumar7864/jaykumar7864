@@ -1,16 +1,64 @@
-## Hi there 👋
+👋 Hi, I'm Jay Kumar
 
-<!--
-**jaykumar7864/jaykumar7864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🚀 Tech Enthusiast | 🤖 ML & Web Projects
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I love building projects that solve real-world problems using modern technologies like Machine Learning and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔥 My Projects
+
+🌱 1. Carbon Emissions Prediction
+
+- 📊 Predicts carbon emissions using Machine Learning
+- 📈 Helps analyze environmental impact
+- 🛠️ Tech Used: Python, ML Algorithms
+
+---
+
+💱 2. Currency Converter
+
+- 🌍 Converts currencies in real-time
+- 💡 Simple and user-friendly interface
+- 🛠️ Tech Used: JavaScript / API Integration
+
+---
+
+✋ 3. Sign Language Detection
+
+- 🤖 Detects hand gestures using ML
+- 🎯 Helps in communication for hearing-impaired people
+- 🛠️ Tech Used: Python, OpenCV, TensorFlow
+
+---
+
+🕵️ 4. Stenography (Hidden Message System)
+
+- 🔐 Hide and extract secret messages inside images
+- 🧠 Useful for secure communication
+- 🛠️ Tech Used: Python
+
+---
+
+🛠️ Skills
+
+- 💻 Programming: c, c++, Java, 
+- 🌐 Web: HTML, CSS, JavaScript
+- 🤖 Machine Learning
+- 🗄️ Database: MongoDB
+
+---
+
+📫 Connect with Me
+
+- 📧 Email: jaykumar78649@gmail.com
+
+---
+
+⚡ Fun Fact
+
+I enjoy building cybersecurity & AI-based projects 🚀
+
+---
+
+⭐ Feel free to explore my repositories and give a star if you like them!
