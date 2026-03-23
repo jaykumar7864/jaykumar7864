@@ -1,4 +1,6 @@
-👋 Hi, I'm Jay Kumar
+<h1 align="center">
+  <span style="color:#00F7FF;">✨ Jay Kumar ✨</span>
+</h1>👋 
 
 💻 Passionate Developer | 🚀 Tech Enthusiast | 🤖 ML & Web Projects
 
