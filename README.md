@@ -1,7 +1,11 @@
-<h1 align="center">
-  <span style="color:#00F7FF;">✨ Jay Kumar ✨</span>
-</h1>👋 
+<h1 align="center">Hi 👋, I'm Jay Kumar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;BCA+Student;Cyber+Security+Learner;Future+Developer🚀">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=150&section=header&text=Jay%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 💻 Passionate Developer | 🚀 Tech Enthusiast | 🤖 ML & Web Projects
 
 Welcome to my GitHub profile! I love building projects that solve real-world problems using modern technologies like Machine Learning and Web Development.
